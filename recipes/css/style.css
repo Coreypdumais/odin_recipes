@@ -1,0 +1,29 @@
+body {
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #29BDC1;
+
+
+}
+
+.ingredients {
+    padding: 5px;
+    font-size: 15px;
+    background-color: antiquewhite;
+    border: solid;
+
+
+}
+
+.steps {
+
+    padding: 5px;
+    font-size: 15px;
+    background-color: antiquewhite;
+        background-color: antiquewhite;
+        border:solid;
+
+
+
+}
+
